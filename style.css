@@ -26,3 +26,8 @@ body {
     background-color: black;
 
 }
+
+.special {
+    color: orange;
+    font-weight: bold;
+  }
